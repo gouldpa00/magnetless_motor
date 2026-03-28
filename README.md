@@ -5,4 +5,4 @@ ipt -> dwg -> pcb traces
 add vias
 copy rotate 12 times
 copy to different layer, rotate (360/(12*2))
-add steps between coil loops, add start and end points
+Add steps between coil loops, add start and end points
