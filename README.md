@@ -6,3 +6,5 @@ add vias;
 copy rotate 12 times;
 copy to different layer, rotate (360/(12*2));
 Add steps between coil loops, add start and end points;
+Inner hole 25mm dia;
+Outer 12-sided poly 93mm flats,
